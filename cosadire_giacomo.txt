@@ -1,0 +1,26 @@
+Perche si sente parlare cosi tanto di blockchain?
+
+E' una strumento informatico che permette lo sviluppo di una nuova classe di sistemi e prodotti. Fondamentalmente essa permette a entita' che non si conoscono di fidarsi una dell'altra senza il bisogno di un autorita' centrale. 
+
+Ad esempio se io voglio comprare una maglietta da un venditore statunitense, di solito dovrei trasferire il denaro attraverso la banca che si tiene la sua bella percentuale. La preferisco come opzione rispetto a spedirgli una busta con i soldi dentro perche' in questo modo la transazione e' registrata da parte della banca e lui non puo' intascarsi i soldi e sparire senza spedirmi la maglietta.
+La blockchain mi permette di trasferirgli il denaro in modo sicuro ma senza la banca, la transazione e' registrata sulla blockchain stessa, quindi in un sistema di migliaia o milioni di computer. 
+Nel mondo solo il 15% della popolazione ha accesso ad un sistema bancario e ad una moneta garantita dallo stato. La blockchain e' uno strumento talmente sicuro da poter essere utilizzato come moneta di cui non esiste un garante.
+Dal momento che circa il 40% del mondo ha accesso ad internet, la blockchain permette la creazione di sistemi globali piu' inclusivi, il mercato globale si ampierebbe. Posso comprare la maglietta anche da un venditore Nigeriano volendo.
+
+Una maggiore inclusione non si ha solo per gli utenti del sistema, ma anche per chi sfrutta questa nuova tecnologia. Si abbassano le barriere per creare sistemi fidati o che impongano la fiducia tra le parti. Infatti sulla blockchain e' possibile la creazione di Smart Contracts, codice che si ha la garanzia che venga eseguito durante una transazione. 
+
+Pensiamo alle regolamentazioni, c'e' possibilita' di passare da un sistema che viene interpretato dalle parti ad un sistema dove le regole sono intrinsiche al sistema stesso, sono scritte nel codice e non devono essere imposte.
+
+Il motivo per cui tutto cio' non era possibile in passato e' che creare un sistema DECENTRALIZZATO e con MEMORIA e' un problema molto difficile. La memoria permette la fiducia, tra i vantaggi della decentralizzazione ci sono sicurezza, efficienza ma sopratutto inclusione.
+
+
+Altri esempi di utilizzo di blockchain sono Steemit, vuole essere una piattaforma per creativi per condividere i propri contenuti sulla rete ed essere remunerati in maniera giusta. Ora chi fa video su Youtube prende una percentuale rispetto al guadagno delle agenzie pubblicitarie, di solito e' molto poco, si parla di un dollaro ogni 1000/2000 visulizzazioni. Steemit permette di dare qualche centesimo ai creatori mettendo like ad un video per esempio, in questo modo si supporta la creativita' sia dal punto di vista sociale (con il like e condivisione) che del denaro. Quindi anche fosse 1 centesimo per like con 1000 like si guadagnerebbero 10 euro. Non tutti quelli che visualizzano un video mettono like ma in ogni caso si guadagna di piu' rispeto alle soluzioni attuali, con l'ulteriore vantaggio di rimuovere la pubblicita'. 
+
+I micropagamenti, nell'ordine dei centesimi non sono stati possibili fino a qualche tempo fa dato che Visa (quella delle carte di credito, che gestise i trasferimenti di denaro elettronici) si prende 20 centesimi per ogni transazione. Il mercato dei micropagamenti ha un potenziale enorme, permetterebbe per esempio di comprare articoli singoli dal Corriere della Sera invece di doversi iscrivere mensilmente (soluzione adottatata fin'ora per ovviare a questo problema).
+
+Altri problemi che la blockchain puo' risolvere sono quelli relativi al mercato dei dati. I data brokers sono agenzie (ma anche grandi aziende tipo Facebook o Google) che fanno di tutto per ottenere dati sugli utenti della rete. Questi dati vengono poi venduti ad aziende per avere statistiche sul comportamento degli utenti per esempio o informazioni su una particolare popolazione di utenti. Cambridge Analytica sembra essere stata di particolare importanza per Trump nelle elezioni analizzando i dati sugli elettori, e consigliando cosa dire o scrivere su Twitter per influenzarne la maggior parte. 
+
+Oltre a questo, il problema e' che gli utenti non posseggono i propri dati, questo ha implicazioni etiche ma e' anche un problema anche per le aziende che comprano questi dati dal momento che la qualita' e' spesso scarsa. Datawallet si pone come soluzione a questo problema creando un mercato dove dove la valuta sono i dati, questi vengono scambiati tra aziende e utenti in sicurezza e trasparenza, sono gli utenti a scegliere quali dati condividere, le tranzazioni possono essere poi trasformate in altre valute, quindi gli utenti verrebbero effettivamente remunerati per i propri dati. Cio' e' molto importante considerando che i dati stanno diventando la risorsa di piu' valore sulla terra, la crescita e' esponenziale, il 90% dei dati e' stato creato negli ultimi due anni.
+
+Sulla blockchian e' quindi possibile creare non solo sistemi monetari, ma di qualunque genere di scambio. Penso che come in qualunque nuova tecnologia gli utilizzi piu' interessanti sono ancora nascosti. Le potenzialita' sono molte e gli scettici anche, non appena il rumore si abbassera' i vantaggi concreti emergeranno.
+
