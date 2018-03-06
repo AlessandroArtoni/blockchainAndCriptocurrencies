@@ -1,8 +1,0 @@
-Jack: - Perche' e' importante oggi blockchain
-	  - Slide
-	  - Blockchain di bitcoin in dettaglio (3blue1brown riassunto)
-
-Ale:  - introduzione/disclaimer
-	  - Codice
-	  - Definizione di blockchain
-

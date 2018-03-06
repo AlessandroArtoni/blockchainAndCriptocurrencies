@@ -21,7 +21,7 @@ class Blockchain{
     }
 
     createGenesisBlock() {
-        return new Block(0, "01/01/2017", "Genesis block", "0");
+        return new Block(0, "03/03/2018", "Genesis block", "0");
     }
 
     getLatestBlock() {
@@ -52,14 +52,16 @@ class Blockchain{
     }
 }
 
-let savjeeCoin = new Blockchain();
-savjeeCoin.addBlock(new Block(1, "20/07/2017", { amount: 4 }));
-savjeeCoin.addBlock(new Block(2, "20/07/2017", { amount: 8 }));
-
-
-console.log('Blockchain valid? ' + savjeeCoin.isChainValid());
-
+let paoloVICoin = new Blockchain();
+//Aggiungo i blocchi
+paoloVICoin.addBlock(new Block(1, "04/03/2018", { amount: 4 }));
+paoloVICoin.addBlock(new Block(2, "04/03/2018", { amount: 8 }));
+//Controllo se la blockchain è valida
+console.log('Blockchain valid? ' + paoloVICoin.isChainValid());
+console.log(JSON.stringify(paoloVICoin,null, 4))
+//Modifico un blocco
 console.log('Changing a block...');
-savjeeCoin.chain[1].data = { amount: 100 };
+paoloVICoin.chain[1].data = { amount: 100 };
+console.log("Blockchain valid? " + paoloVICoin.isChainValid());
+console.log(JSON.stringify(paoloVICoin,null, 4))
 
-console.log("Blockchain valid? " + savjeeCoin.isChainValid());

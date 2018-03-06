@@ -28,11 +28,11 @@ class Block {
 class Blockchain{
     constructor() {
         this.chain = [this.createGenesisBlock()];
-        this.difficulty = 5;
+        this.difficulty = 6;
     }
 
     createGenesisBlock() {
-        return new Block(0, "01/01/2017", "Genesis block", "0");
+        return new Block(0, "04/03/2018", "Genesis block", "0");
     }
 
     getLatestBlock() {
@@ -63,9 +63,9 @@ class Blockchain{
     }
 }
 
-let savjeeCoin = new Blockchain();
+let paoloVICoin = new Blockchain();
 console.log('Mining block 1...');
-savjeeCoin.addBlock(new Block(1, "20/07/2017", { amount: 4 }));
+paoloVICoin.addBlock(new Block(1, "05/03/2018", { amount: 4 }));
 
 console.log('Mining block 2...');
-savjeeCoin.addBlock(new Block(2, "20/07/2017", { amount: 8 }));
+paoloVICoin.addBlock(new Block(2, "05/03/2018", { amount: 8 }));
